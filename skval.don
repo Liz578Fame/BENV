@@ -14,7 +14,6 @@ AZpairs:True
 Initpar:True
 Mirrors:False 
 EOSpars:False
-EOSgrup:False
 
 #-------------#
 #--Formating--#-------#
@@ -28,15 +27,11 @@ EOSgrup:False
 56,28
 208,82
 
-#----Pars----#
-
-
-
 #---Special---#
 
 
 
-#---End---#
+#------End-------#
 
 
 
